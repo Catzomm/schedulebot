@@ -1,0 +1,8 @@
+openpyxl
+datetime
+pyTelegramBotAPI
+pywin32
+watchdog
+vk_api
+Pillow
+PyMuPDF
